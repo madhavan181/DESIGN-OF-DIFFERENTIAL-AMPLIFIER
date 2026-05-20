@@ -48,3 +48,5 @@ Differential amplifier
 
 
 ## RESULT:                   
+Thus, the differential amplifier is designed and its performance is successfully tested using op-amp IC 741.
+
