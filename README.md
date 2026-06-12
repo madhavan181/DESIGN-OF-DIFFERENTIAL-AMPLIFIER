@@ -1,4 +1,4 @@
-# DESIGN OF DIFFERENTIAL AMPLIFIER
+<img width="853" height="1280" alt="image" src="https://github.com/user-attachments/assets/c264a0b0-74a4-4e8b-a45f-e07fb2feccba" /># DESIGN OF DIFFERENTIAL AMPLIFIER
 ## AIM:
 To design and construct a inverting, non- inverting and differential amplifiers.
 
@@ -42,10 +42,10 @@ Differential amplifier
 <img width="678" height="334" alt="image" src="https://github.com/user-attachments/assets/f8d817d8-aa4b-4308-8a1f-822567db04b3" />
 
 ## TABULATION:
-![Uploading image.png…]()
+<img width="1280" height="791" alt="image" src="https://github.com/user-attachments/assets/5b4b3755-b0e6-4828-afd7-f3b378c3f1b7" />
 
 ## GRAPH:
-![Uploading image.png…]()
+<img width="853" height="1280" alt="image" src="https://github.com/user-attachments/assets/33250ff5-0358-47ed-a80a-c6a1f04c53cd" />
 
 ## RESULT:                   
 Thus, the differential amplifier is designed and its performance is successfully tested using op-amp IC 741.
