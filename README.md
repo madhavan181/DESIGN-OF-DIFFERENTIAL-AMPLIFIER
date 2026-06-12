@@ -42,10 +42,10 @@ Differential amplifier
 <img width="678" height="334" alt="image" src="https://github.com/user-attachments/assets/f8d817d8-aa4b-4308-8a1f-822567db04b3" />
 
 ## TABULATION:
-
+![Uploading image.png…]()
 
 ## GRAPH:
-
+![Uploading image.png…]()
 
 ## RESULT:                   
 Thus, the differential amplifier is designed and its performance is successfully tested using op-amp IC 741.
